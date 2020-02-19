@@ -1,6 +1,15 @@
 
 # Module 5 Final Project
 
+## Repository Contents
+
+* Mod5ProjectPresentation.pdf - Executive summary of the project for a non-technical audience
+
+* student.ipynb - Jupyter Notebook containing code written for the project for a technical audience
+
+* OSEMN.png - Image describing that data science framework used in this project
+
+* Other Files (.gitignore, .learn, CONTRIBUTING.md, LICENSE.md, README.md, module5_project_rubric.pdf, smart.gif) - forked repository files
 
 ## Introduction
 
